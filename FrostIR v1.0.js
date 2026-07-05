@@ -1,4 +1,4 @@
-// FrostIR v2.0
+// FrostIR v1.0
 // Chunk 1/3
 // Engine + Universal Sender
 
@@ -116,7 +116,7 @@ while(true){
     sendUniversal(c);
 
 }
-// FrostIR v2.0
+// FrostIR v1.0
 // Chunk 2/3
 // Samsung + Sony Database
 
